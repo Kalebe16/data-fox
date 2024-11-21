@@ -1,0 +1,4 @@
+blue==0.9.1
+isort==5.13.2
+textual-dev==1.6.1
+build
